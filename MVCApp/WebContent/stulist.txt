@@ -1,0 +1,7 @@
+{
+"student" : [
+{"name":"vicky","rno":"1"},
+{"name":"siva","rno":"2"},
+{"name":"madhu","rno":"3"}
+]
+}
